@@ -1,11 +1,10 @@
-# -*- encoding: utf-8 -*-
 require File.expand_path('../lib/jquery/rails/version', __FILE__)
 
 Gem::Specification.new do |s|
   s.name        = "jquery-rails"
   s.version     = Jquery::Rails::VERSION
   s.platform    = Gem::Platform::RUBY
-  s.authors     = ["André Arko"]
+  s.authors     = ["Andre Arko"]
   s.email       = ["andre@arko.net"]
   s.homepage    = "http://rubygems.org/gems/jquery-rails"
   s.summary     = "Use jQuery with Rails 3"
